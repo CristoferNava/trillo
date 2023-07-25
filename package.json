@@ -1,0 +1,23 @@
+{
+  "name": "trillo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch:sass": "sass --watch sass/main.scss css/style.css "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristoferNava/trillo.git"
+  },
+  "author": "Cristofer Nava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristoferNava/trillo/issues"
+  },
+  "homepage": "https://github.com/CristoferNava/trillo#readme",
+  "dependencies": {
+    "sass": "^1.64.1"
+  }
+}
